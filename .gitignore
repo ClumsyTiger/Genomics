@@ -1,4 +1,6 @@
 ### Custom rules ###
+*.bam
+*.bam.bai
 
 
 ### Python ###
